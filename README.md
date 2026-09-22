@@ -1,4 +1,4 @@
-# AI Fluency – Day 1 Assessment
+# Day 1 
 
 ## Plain Chatbot vs Rule-Based Workflow vs AI Agent
 

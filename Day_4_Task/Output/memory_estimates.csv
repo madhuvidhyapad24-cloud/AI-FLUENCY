@@ -1,0 +1,13 @@
+Quantization,Context_Tokens,Weights_GB,KV_Cache_GB,Estimated_Total_GB,Fits_15.82GB_RAM
+Q4,2048,4.191,0.25,4.441,Likely
+Q4,4096,4.191,0.5,4.691,Likely
+Q4,8192,4.191,1.0,5.191,Likely
+Q4,16384,4.191,2.0,6.191,Likely
+Q8,2048,7.916,0.25,8.166,Likely
+Q8,4096,7.916,0.5,8.416,Likely
+Q8,8192,7.916,1.0,8.916,Likely
+Q8,16384,7.916,2.0,9.916,Likely
+FP16,2048,14.901,0.25,15.151,Unlikely
+FP16,4096,14.901,0.5,15.401,Unlikely
+FP16,8192,14.901,1.0,15.901,Unlikely
+FP16,16384,14.901,2.0,16.901,Unlikely

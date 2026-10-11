@@ -78,23 +78,6 @@ python Day_1_Task/agent.py
 
 The chatbot and agent require a valid Groq API key and the required Python packages. The rule-based workflow runs independently.
 
-## Environment Setup
-
-Install the required packages:
-
-```bash
-python -m pip install groq python-dotenv
-```
-
-Create a `.env` file in the project root:
-
-```env
-GROQ_API_KEY=your_groq_api_key
-GROQ_MODEL=openai/gpt-oss-20b
-```
-
-Replace the placeholder with your actual API key. Never commit `.env` to GitHub.
-
 ## Comparison Summary
 
 | Feature | Plain Chatbot | Rule-Based Workflow | AI Agent |

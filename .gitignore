@@ -2,3 +2,8 @@
 .venv/
 __pycache__/
 *.pyc
+PSLevel_1_Task/chroma_db/
+PSLevel_1_Task/chroma_test/
+PSLevel_1_Task/diagnostic_db/
+PSLevel_1_Task/.env
+PSLevel_1_Task/.venv/
